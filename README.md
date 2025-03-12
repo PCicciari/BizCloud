@@ -1,5 +1,7 @@
 # BizCloud
 
+Required: Node.JS, npm, MySQL
+
 How To Set Up
 
 1) Download dependencies
